@@ -9,4 +9,12 @@ After this go to localhost
 http://localhost:8080
 
 ========
+go to 
+/Users/namitadevi/.jenkins/secrets/initialAdminPassword
+
+Type the password
+in jenkins page
+==============
+
+
 
